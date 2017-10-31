@@ -18,7 +18,7 @@
                 <form method="post">
                         <table cellpadding="5" border="0">
                                 <tr>
-                                        <td></td><td align="center"><button name="installRails">Install Ruby on Rails</button></td>
+                                        <td></td><td align="center"><button name="updatePython">Update Python</button></td>
                                 </tr>
                         </table>
                 </form>
